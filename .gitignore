@@ -1,0 +1,10 @@
+# QA and preview files
+_qa_previews/
+_qa_preview.html
+HOW_TO_PUBLISH.md
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

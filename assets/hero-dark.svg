@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc"><title id="title">Christine Nilo — Student and Swimming Coach</title><desc id="desc">Aquatic retro portfolio banner in muted blue and teal, showing Christine&#x27;s name and a swimmer practicing in a pool.</desc><rect width="1200" height="300" rx="17" fill="#0A1721"/><rect x="1" y="1" width="1198" height="298" rx="16" fill="none" stroke="#305362" stroke-width="2"/><rect x="2" y="2" width="1196" height="35" rx="15" fill="#102734"/><path d="M1 36H1199" stroke="#305362"/><circle cx="23" cy="19" r="4" fill="#F4C892"/><circle cx="38" cy="19" r="4" fill="#83D9C7" opacity=".65"/><circle cx="53" cy="19" r="4" fill="#9AB5B9" opacity=".55"/><text x="78" y="24" fill="#9AB5B9" font-family="Consolas, monospace" font-size="12" >POOL.DEV / CHRISTINE</text><text x="1165" y="24" fill="#9AB5B9" font-family="Consolas, monospace" font-size="11" text-anchor="end">EST. 2026   |   LANES OPEN</text><rect x="54" y="69" width="6" height="156" rx="2" fill="#83D9C7"/><text x="83" y="100" fill="#83D9C7" font-family="Consolas, monospace" font-size="16" letter-spacing="2.2">STUDENT  /  SWIMMING COACH</text><text x="82" y="163" fill="#F3F4E9" font-family="Georgia, serif" font-size="55" font-weight="bold" letter-spacing="-1.5">CHRISTINE NILO</text><text x="85" y="205" fill="#9AB5B9" font-family="Arial, sans-serif" font-size="19" >Computer Engineering  ×  Coaching  ×  Growth</text><text x="85" y="247" fill="#F4C892" font-family="Consolas, monospace" font-size="13" letter-spacing="1.4">KEEP LEARNING. KEEP MOVING.</text><rect x="825" y="62" width="334" height="208" rx="15" fill="#183F4B" stroke="#305362" stroke-width="2"/><rect x="842" y="80" width="300" height="172" rx="8" fill="#1C4652" opacity=".9"/><path d="M844 88 Q885 77 929 88 T1015 88 T1139 88" fill="none" stroke="#6BABB0" stroke-width="2" opacity=".45"/><path d="M844 113 Q885 102 929 113 T1015 113 T1139 113" fill="none" stroke="#6BABB0" stroke-width="2" opacity=".45"/><path d="M844 138 Q885 127 929 138 T1015 138 T1139 138" fill="none" stroke="#6BABB0" stroke-width="2" opacity=".45"/><path d="M844 163 Q885 152 929 163 T1015 163 T1139 163" fill="none" stroke="#6BABB0" stroke-width="2" opacity=".45"/><path d="M844 188 Q885 177 929 188 T1015 188 T1139 188" fill="none" stroke="#6BABB0" stroke-width="2" opacity=".45"/><path d="M844 213 Q885 202 929 213 T1015 213 T1139 213" fill="none" stroke="#6BABB0" stroke-width="2" opacity=".45"/><path d="M844 238 Q885 227 929 238 T1015 238 T1139 238" fill="none" stroke="#6BABB0" stroke-width="2" opacity=".45"/><path d="M854 121H1130M854 184H1130" stroke="#F4C892" stroke-width="5" stroke-dasharray="16 12 6 12" opacity=".85"/><g transform="translate(980 155)">
+  <g class="hero-swimmer"><g transform="scale(0.82)"><g class="swim-bob">
+    <title>A freestyle swimmer in a teal swimsuit and swimming cap, alternating arm strokes and flutter kicks</title>
+    <g class="swim-spray" fill="none" stroke="#D5E5DB" stroke-width="3" stroke-linecap="round" opacity=".7">
+      <path d="M-81 -3q-5-5-10 0M-84 9q-6 3-10 0M68 -26q5-6 10-5M77 22q6 1 11-4"/>
+    </g>
+    <g class="swim-kick-far">
+      <path d="M-43 4Q-60 7-73 19L-91 12" fill="none" stroke="#CB896D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-91 12q-5 0-10 4" fill="none" stroke="#CB896D" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <g class="swim-kick-near">
+      <path d="M-43 -2Q-65-10-81-3L-95-12" fill="none" stroke="#E9B38F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-95-12q-6 0-10-5" fill="none" stroke="#E9B38F" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <g class="swim-arm-back">
+      <path d="M20 5Q43 19 57 15L77 5" fill="none" stroke="#CB896D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M77 5l7-5" stroke="#CB896D" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <path d="M-51-12Q-35-20-14-15L24-16Q38-12 35 4L13 14Q-11 12-33 9L-53 5Z"
+      fill="#176778" stroke="#0E4052" stroke-width="2"/>
+    <path d="M-31-15L-27 9M-16-16L-12 10" stroke="#0E4052" stroke-width="2" opacity=".55"/>
+    <path d="M23-12l9-7 12 4-4 15-13 3" fill="#E9B38F" stroke="#CB896D" stroke-width="1.5"/>
+    <g class="swim-face">
+      <circle cx="48" cy="-11" r="16" fill="#E9B38F" stroke="#CB896D" stroke-width="1.8"/>
+      <path d="M32-15Q32-36 52-34Q67-32 66-17L64-10Q55-15 46-14Z"
+        fill="#57BDC5" stroke="#207986" stroke-width="2"/>
+      <path d="M37-14h15q4-1 7 1" fill="none" stroke="#207986" stroke-width="2.5"/>
+      <rect x="45" y="-13" width="12" height="7" rx="3" fill="#0E4052" stroke="#D5E5DB" stroke-width="1.6"/>
+      <path d="M57-9h11" stroke="#207986" stroke-width="1.6"/>
+      <path d="M64-4l5 2" stroke="#CB896D" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+    <g class="swim-arm-front">
+      <path d="M18-9Q26-28 41-32L67-26" fill="none" stroke="#E9B38F" stroke-width="13"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M67-26L83-27" fill="none" stroke="#E9B38F" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  </g></g></g>
+</g><circle cx="1083" cy="113" r="5" fill="none" stroke="#D1F0D2" stroke-width="2" class="bubble-a"/><circle cx="1107" cy="142" r="3" fill="none" stroke="#D1F0D2" stroke-width="1.5" class="bubble-b"/><circle cx="889" cy="202" r="4" fill="none" stroke="#D1F0D2" stroke-width="2" class="bubble-c"/><text x="848" y="265" fill="#9AB5B9" font-family="Consolas, monospace" font-size="10" >SWIM MODE // ACTIVE</text><style>@keyframes freestyleFront{0%,100%{transform:rotate(-21deg)}25%{transform:rotate(19deg)}50%{transform:rotate(65deg)}75%{transform:rotate(12deg)}}@keyframes freestyleBack{0%,100%{transform:rotate(44deg)}25%{transform:rotate(6deg)}50%{transform:rotate(-24deg)}75%{transform:rotate(8deg)}}@keyframes flutterNear{0%,100%{transform:rotate(-15deg)}50%{transform:rotate(21deg)}}@keyframes flutterFar{0%,100%{transform:rotate(20deg)}50%{transform:rotate(-17deg)}}@keyframes swimRoll{0%,100%{transform:translateY(0) rotate(-1deg)}50%{transform:translateY(2px) rotate(2deg)}}@keyframes swimSpray{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:.9;transform:scale(1.08)}}.swim-bob{animation:swimRoll 1.6s ease-in-out infinite}.swim-arm-front{transform-box:fill-box;transform-origin:8% 76%;animation:freestyleFront 1.1s ease-in-out infinite}.swim-arm-back{transform-box:fill-box;transform-origin:8% 22%;animation:freestyleBack 1.1s ease-in-out infinite}.swim-kick-near{transform-box:fill-box;transform-origin:79% 50%;animation:flutterNear .52s ease-in-out infinite}.swim-kick-far{transform-box:fill-box;transform-origin:79% 25%;animation:flutterFar .52s ease-in-out infinite}.swim-spray{animation:swimSpray 1.1s ease-in-out infinite}@keyframes heroSwim{0%,100%{transform:translate(0,0) rotate(-1deg)}50%{transform:translate(5px,4px) rotate(1.6deg)}}@keyframes bubbleUp{0%,100%{transform:translateY(8px);opacity:.35}50%{transform:translateY(-9px);opacity:1}}.hero-swimmer{animation:heroSwim 5s ease-in-out infinite;transform-origin:0 0}.bubble-a{animation:bubbleUp 3s ease-in-out infinite}.bubble-b{animation:bubbleUp 3.7s ease-in-out -1s infinite}.bubble-c{animation:bubbleUp 4.2s ease-in-out -2s infinite}@media(prefers-reduced-motion:reduce){.hero-swimmer,.bubble-a,.bubble-b,.bubble-c,.swim-bob,.swim-arm-front,.swim-arm-back,.swim-kick-near,.swim-kick-far,.swim-spray{animation:none!important}}</style></svg>
